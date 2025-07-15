@@ -133,11 +133,10 @@ Your credentials remain local and are not collected or shared.
 
 ---
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-**Your Name Here**  
-Internship Submission for **BeyondChats**  
+**Sanjay Kumar M**  
 📧 [Email Me](mailto:sanjaychitra9159@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/sanjaykumar-ai)  
+🌐 [LinkedIn](https://www.linkedin.com/in/sanjay-kumarai)  
 💻 [GitHub](https://github.com/SanjayKumar-Codes)
 
