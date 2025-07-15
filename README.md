@@ -1,13 +1,12 @@
 
 ## 📄 `README.md`
 
-````markdown
+
 # 🧠 Reddit User Persona Generator
 
 This is a Python-based tool to extract Reddit user activity and generate a persona profile using LLMs (OpenAI).  
 It fetches a user's posts and comments, analyzes them, and outputs a `.txt` file describing the user's personality, interests, tone, and more — with proper citations.
 
----
 
 ## 🚀 Features
 
@@ -16,7 +15,7 @@ It fetches a user's posts and comments, analyzes them, and outputs a `.txt` file
 - 🧾 Outputs a citation-backed `.txt` persona file per user
 - 📦 Easy to run via `main.py`
 
----
+
 
 ## 🔧 Setup
 
@@ -133,7 +132,7 @@ Your credentials remain local and are not collected or shared.
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 **Sanjay Kumar M**  
 📧 [Email Me](mailto:sanjaychitra9159@gmail.com)  
